@@ -12,7 +12,7 @@ import static org.junit.Assert.fail;
 public class QuicksortTest {
 
     private int[] numbers;
-    private final static int SIZE = 700000;
+    private final static int SIZE = 7000;
     private final static int MAX = 2000;
 
     @Before

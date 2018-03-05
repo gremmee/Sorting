@@ -1,1 +1,9 @@
 *.90
+*.43
+*.ini
+*.prefs
+RemoteSystemsTempFiles/.project
+*.fdx
+.recommenders/index/http___download_eclipse_org_recommenders_models_neon_/_0.fnm
+*.42
+.metadata/.plugins/org.jboss.ide.eclipse.as.core/.global/filesets/default/org.jboss.ide.eclipse.as.50
